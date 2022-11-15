@@ -1,5 +1,6 @@
 # Popular-Visualization-Libraries
-About libraries which are help us with data visualization by Python 
+About libraries which are help us with data visualization by Python.
+
 **Libraries:** (update in progress)
 * Matplotlib
 * Seaborn
